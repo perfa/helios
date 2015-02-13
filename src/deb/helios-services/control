@@ -3,7 +3,7 @@ Version: [[version]]
 Section: non-free/net
 Priority: optional
 Architecture: all
-Depends: java7-runtime
+Depends: java7-runtime java8-runtime
 Maintainer: Daniel Norberg <dano@spotify.com>
 Description: Helios services common files
 Distribution: development
